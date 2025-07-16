@@ -32,4 +32,23 @@ To explore how loyalty programs affect:
 - **Power BI** – Building dynamic dashboards for business insights  
 - **Tableau** – High-level visual storytelling  
 
-## 📂 Project Structure
+
+## 📈 Deliverables
+
+- Interactive dashboards that provide business users with insight into loyalty behavior
+- Visual KPIs such as active vs. inactive members, points earned/redeemed, redemption rates, and engagement levels
+- Actionable recommendations to improve customer retention and maximize partner value
+
+## 🚀 Business Value
+
+Airline companies can use these insights to:
+- Optimize loyalty program strategies
+- Improve customer engagement and lifetime value
+- Identify underperforming segments or partners
+- Leverage data for smarter pricing decisions
+
+## 📌 License
+
+This project is for educational and portfolio purposes.  
+Feel free to use or modify it — just give proper credit if shared.
+
